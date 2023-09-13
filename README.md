@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhislg17
 -  I’m interested in programming languages,database
-- 🌱 I’m currently learning MCA 
+- 🌱 I’m currently pursuing MCA 
 - 
 - 📫 
 
